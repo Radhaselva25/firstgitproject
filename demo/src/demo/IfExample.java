@@ -7,7 +7,7 @@ public class IfExample {
 		int age=20;
 		//checking the age
 		if(age>18) {
-			System.out.println("Age is greater than 12");
+			System.out.println("Age is greater than 2");
 		}
 
 	}
